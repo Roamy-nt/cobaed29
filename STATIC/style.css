@@ -140,7 +140,7 @@ body {
 .sport-category h3 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
-    color: var(--white-color);
+    color: var(--text-light);
     margin-bottom: 1.5rem;
     display: flex;
     align-items: center;
