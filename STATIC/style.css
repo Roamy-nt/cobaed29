@@ -146,6 +146,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 10px;
+    
 }
 
 .buttons-grid {
@@ -475,4 +476,10 @@ body {
 }
 
 
+<style>
+    .info-card ul,
+    .info-card ul li {
+        color: white;
+    }
+</style>
 
