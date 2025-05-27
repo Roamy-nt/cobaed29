@@ -481,8 +481,9 @@ body {
 .info-card ul li {
 color: white;
     }
-.info-card h3 {
-    color: white;
+.info-card h2,
+.info-card h2 * {
+    color: white !important;
 }
 
 
